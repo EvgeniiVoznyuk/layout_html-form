@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,kBACF,CAEA,YACE,kBACF,CAEA,wBACE,eACF","file":"style.656651e8.css","sourceRoot":"../src","sourcesContent":[".FieldsBlock {\n  margin-bottom: 20px;\n}\n\n.FieldBlock {\n  margin-bottom: 10px;\n}\n\nfieldset div:last-child {\n  margin-bottom: 0;\n}\n"]}
